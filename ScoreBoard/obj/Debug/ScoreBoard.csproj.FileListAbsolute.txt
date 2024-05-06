@@ -1,0 +1,10 @@
+C:\Users\gevorg.s.ghevondyan\source\repos\ScoreBoard\ScoreBoard\bin\Debug\ScoreBoard.exe.config
+C:\Users\gevorg.s.ghevondyan\source\repos\ScoreBoard\ScoreBoard\bin\Debug\ScoreBoard.exe
+C:\Users\gevorg.s.ghevondyan\source\repos\ScoreBoard\ScoreBoard\bin\Debug\ScoreBoard.pdb
+C:\Users\gevorg.s.ghevondyan\source\repos\ScoreBoard\ScoreBoard\obj\Debug\ScoreBoard.csproj.AssemblyReference.cache
+C:\Users\gevorg.s.ghevondyan\source\repos\ScoreBoard\ScoreBoard\obj\Debug\ScoreBoard.Tennis_Scoreboard.resources
+C:\Users\gevorg.s.ghevondyan\source\repos\ScoreBoard\ScoreBoard\obj\Debug\ScoreBoard.Properties.Resources.resources
+C:\Users\gevorg.s.ghevondyan\source\repos\ScoreBoard\ScoreBoard\obj\Debug\ScoreBoard.csproj.GenerateResource.cache
+C:\Users\gevorg.s.ghevondyan\source\repos\ScoreBoard\ScoreBoard\obj\Debug\ScoreBoard.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.s.ghevondyan\source\repos\ScoreBoard\ScoreBoard\obj\Debug\ScoreBoard.exe
+C:\Users\gevorg.s.ghevondyan\source\repos\ScoreBoard\ScoreBoard\obj\Debug\ScoreBoard.pdb
